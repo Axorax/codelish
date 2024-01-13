@@ -1,0 +1,7 @@
+node_modules/
+
+codelish.json
+package-lock.json
+
+codelish.exe
+sea-prep.blob

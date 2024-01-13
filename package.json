@@ -1,0 +1,19 @@
+{
+  "name": "codelish",
+  "version": "1.0.0",
+  "description": "Use English as a programming language",
+  "main": "index.js",
+  "scripts": {
+    "build": "pkg index.js --targets node16-win-x64"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axorax/codelish.git"
+  },
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axorax/codelish/issues"
+  },
+  "homepage": "https://github.com/axorax/codelish#readme"
+}
